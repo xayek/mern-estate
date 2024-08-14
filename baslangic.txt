@@ -13,3 +13,4 @@ npm i redux-persist (client dosyasının içine)
 npm install firebase (client dosyasının içine)
 npm install cookie-parser (genel dosya)
 npm i swiper (client dosyasının içine)
+npm install -D @tailwindcss/line-clamp (client dosyasının içine) ---> plugins: [require('@tailwindcss/line-clamp'),// ...],
